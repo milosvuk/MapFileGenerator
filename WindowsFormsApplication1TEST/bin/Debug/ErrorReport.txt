@@ -1,0 +1,153 @@
+Application:       WindowsFormsApplication1TEST
+Version:           1.0.0.0
+Date:              21-12-2015 10:28:56
+Computer name:     KOMP-PC
+User name:         komp
+OS:                Microsoft Windows NT 6.1.7601 Service Pack 1
+Culture:           en-US
+Resolution:        {Width=1920, Height=1080}
+System up time:    00:48:31.5150000
+App up time:       00:14:33.1266439
+Total memory:      16334Mb
+Available memory:  11960Mb
+
+Exception classes:   
+   System.DivideByZeroException
+Exception messages: 
+   Attempted to divide by zero.
+Stack Traces:
+   at WindowsFormsApplication1TEST.Form1.button1_Click(Object sender, EventArgs e) in A:\Development\MY_Dev\WindowsFormsApplication1TEST\WindowsFormsApplication1TEST\Form1.cs:line 24
+Loaded Modules:
+A:\Development\MY_Dev\WindowsFormsApplication1TEST\WindowsFormsApplication1TEST\bin\Debug\WindowsFormsApplication1TEST.vshost.exe 10.0.30319.1
+C:\Windows\SysWOW64\ntdll.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\SYSTEM32\MSCOREE.DLL 4.0.40305.0 (Main.040305-0000)
+C:\Windows\syswow64\KERNEL32.dll 6.1.7601.17965 (win7sp1_gdr.121004-0333)
+C:\Windows\syswow64\KERNELBASE.dll 6.1.7601.17965 (win7sp1_gdr.121004-0333)
+C:\Windows\syswow64\ADVAPI32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\msvcrt.dll 7.0.7601.17744 (win7sp1_gdr.111215-1535)
+C:\Windows\SysWOW64\sechost.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\RPCRT4.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\SspiCli.dll 6.1.7601.19007 (win7sp1_gdr.150915-0600)
+C:\Windows\syswow64\CRYPTBASE.dll 6.1.7601.19018 (win7sp1_gdr.150928-1507)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\syswow64\SHLWAPI.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\GDI32.dll 6.1.7601.18898 (win7sp1_gdr.150617-0600)
+C:\Windows\syswow64\USER32.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\syswow64\LPK.dll 6.1.7601.18985 (win7sp1_gdr.150901-1452)
+C:\Windows\syswow64\USP10.dll 1.0626.7601.18454 (win7sp1_gdr.140424-1533)
+C:\Windows\system32\IMM32.DLL 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\syswow64\MSCTF.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\VERSION.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll 4.6.100.0 built by: NETFXREL2STAGE
+C:\Windows\system32\MSVCR120_CLR0400.dll 12.00.52512.0 built by: VSWINSERVICING
+C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\8e3404c758efee6c7eb3ec52c38e1ed8\mscorlib.ni.dll 4.6.100.0 built by: NETFXREL2STAGE
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\nlssorting.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll 4.6.100.0 built by: NETFXREL2STAGE
+C:\Windows\syswow64\OLEAUT32.dll 6.1.7601.18640
+C:\Windows\syswow64\ole32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System\fe14a7fe1d472136dc5deec73d296ba9\System.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\41eec1898296247c2db5ca0349968e0e\System.Drawing.ni.dll 4.6.91.0 built by: NETFXREL2STAGE
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\3fa7114a8f3bafc0b1629481a95c6f3b\System.Windows.Forms.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Program Files\Microsoft Visual Studio 10.0\Common7\Packages\Debugger\x86\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll 10.0.30319.1 built by: RTMRel
+C:\Windows\system32\MSVCR100.dll 10.00.40219.325
+C:\Windows\syswow64\CLBCatQ.DLL 2001.12.8530.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\CRYPTSP.dll 6.1.7601.18741 (win7sp1_gdr.150202-1526)
+C:\Windows\system32\rsaenh.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\RpcRtRemote.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\system32\SXS.DLL 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\psapi.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\00ee33b342bdb1e43546f57cf9b4b998\System.Core.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml.Linq\5692d265c2647549d0f21a319288dc02\System.Xml.Linq.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data7706cdc8#\cbc0cf29d3bb9dc443b5dec8f11383c5\System.Data.DataSetExtensions.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.CSharp\5f3bebdb793ff64d62cf1ed064f973bf\Microsoft.CSharp.ni.dll 4.6.81.0
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data\20b35be826bccaaeb23230f2d43fab43\System.Data.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\syswow64\WS2_32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\NSI.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\CRYPT32.dll 6.1.7601.18741 (win7sp1_gdr.150202-1526)
+C:\Windows\syswow64\MSASN1.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Deployment\bb590041eb9796dfa900d51d76ed45d7\System.Deployment.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\b8640a66b3cde1da414744cf108b11b3\System.Xml.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Web\8b123086229d00802b5cab77dae28478\System.Web.ni.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\system32\uxtheme.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll 6.10 (win7_rtm.090713-1255)
+C:\Windows\system32\dwmapi.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll 6.10 (win7_rtm.090713-1255)
+C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.18946_none_72d45ee78666ea32\gdiplus.dll 6.1.7601.18946 (win7sp1_gdr.150730-0600)
+C:\Windows\syswow64\shell32.dll 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+C:\Windows\system32\ntmarta.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\syswow64\WLDAP32.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\pcwum.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\perfcounter.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\system32\pdh.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\system32\aspnet_counters.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_perf.dll 4.6.81.0 built by: NETFXREL2
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_perf.dll 2.0.50727.5483 (Win7SP1GDR.050727-5400)
+C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6229_none_d089f796442de10e\MSVCR80.dll 8.00.50727.6229
+C:\Program Files (x86)\Microsoft SQL Server\100\Shared\instapi10.dll 2009.0100.1600.01 ((KJ_RTM).100402-1540 )
+C:\Windows\syswow64\CFGMGR32.dll 6.1.7601.17621 (win7sp1_gdr.110523-2108)
+C:\Windows\system32\rasman.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\System32\perfos.dll 6.1.7600.16385 (win7_rtm.090713-1255)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll 14.00.0081.0 built by: NETFXREL2
+
+Application:       WindowsFormsApplication1TEST
+Version:           1.0.0.0
+Date:              21-12-2015 10:31:12
+Computer name:     KOMP-PC
+User name:         komp
+OS:                Microsoft Windows NT 6.1.7601 Service Pack 1
+Culture:           en-US
+Resolution:        {Width=1920, Height=1080}
+System up time:    00:50:47.1960000
+App up time:       00:01:58.8916438
+Total memory:      16334Mb
+Available memory:  11939Mb
+
+Exception classes:   
+   System.DivideByZeroException
+Exception messages: 
+   Attempted to divide by zero.
+Stack Traces:
+   at WindowsFormsApplication1TEST.Form1.button1_Click(Object sender, EventArgs e) in A:\Development\MY_Dev\WindowsFormsApplication1TEST\WindowsFormsApplication1TEST\Form1.cs:line 24
+
+===========================================================
+Application:       WindowsFormsApplication1TEST
+Version:           1.0.0.0
+Date:              21-12-2015 10:32:19
+Computer name:     KOMP-PC
+User name:         komp
+OS:                Microsoft Windows NT 6.1.7601 Service Pack 1
+Culture:           en-US
+Resolution:        {Width=1920, Height=1080}
+System up time:    00:51:54.0760000
+App up time:       00:01:06.6702338
+Total memory:      16334Mb
+Available memory:  11927Mb
+
+Exception classes:   
+   System.DivideByZeroException
+Exception messages: 
+   Attempted to divide by zero.
+Stack Traces:
+   at WindowsFormsApplication1TEST.Form1.button1_Click(Object sender, EventArgs e) in A:\Development\MY_Dev\WindowsFormsApplication1TEST\WindowsFormsApplication1TEST\Form1.cs:line 24
+
+===========================================================
+Application:       WindowsFormsApplication1TEST
+Version:           1.0.0.0
+Date:              21-12-2015 13:42:42
+Computer name:     KOMP-PC
+User name:         komp
+OS:                Microsoft Windows NT 6.1.7601 Service Pack 1
+Culture:           en-US
+Resolution:        {Width=1920, Height=1080}
+System up time:    03:28:34.5000000
+App up time:       03:10:20.5230665
+Total memory:      16334Mb
+Available memory:  11119Mb
+
+Exception classes:   
+   System.DivideByZeroException
+Exception messages: 
+   Attempted to divide by zero.
+Stack Traces:
+   at WindowsFormsApplication1TEST.Form1.button1_Click(Object sender, EventArgs e) in A:\Development\MY_Dev\WindowsFormsApplication1TEST\WindowsFormsApplication1TEST\Form1.cs:line 24
