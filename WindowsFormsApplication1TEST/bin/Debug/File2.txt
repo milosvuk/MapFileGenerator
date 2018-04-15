@@ -1,0 +1,27 @@
+message_Id,name,messageChain_Id
+0,Account Balance Enq,0
+1,Amend Clt Business -AMEND,1
+2,Amend Clt Tax Rec-AMEND ,1
+3,Amend Clt Personal -AMEND,2
+4,Amend Clt Tax Rec-AMEND ,2
+5,Create Clt Business,3
+6,Create Clt Personal,4
+7,Account Balance Enq,5
+8,Amend Clt Business -AMEND,6
+9,Amend Clt Tax Rec-AMEND ,6
+10,Amend Clt Personal -AMEND,7
+11,Amend Clt Tax Rec-AMEND ,7
+12,Create Clt Business,8
+13,Create Clt Personal,9
+14,FN Same Currency ,10
+15,Cross Curr Dr FGN Cr FGN,11
+16,Multi Curr Dr EUR Cr FGN,12
+17,Cross Curr Dr FGN Cr FGN,13
+18,Cross Curr Dr FGN Cr FGN,14
+19,Cross Curr Dr FGN Cr FGN,15
+20,Multi Curr Dr FGN Cr EUR,16
+21,Amend Clt Joint -AMEND,17
+22,Amend Clt Tax Rec-AMEND ,17
+23,Amend Loan Account - INQ,18
+24,Create Clt Joint,19
+25,Open Loan Account,20

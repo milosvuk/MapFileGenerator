@@ -1,0 +1,64 @@
+Destination_Mailbox_13|b
+Destination_Country_Code_13|470
+Destination_IMD_Code_13|512345
+Destination_Branch_Number_13|0005
+Source_Mailbox_13|a
+Source_Country_Code_13|470
+Source_IMD_Code_13|512345
+Source_Branch_Number_13|0019
+Business_Period_13|0000
+Message_Type_26|1
+Sequence_Number_13|000000
+Time_13|153501
+Transaction_Status_13|0
+Message_Flags_13|@
+Reconciliation_Period_13|0000
+Reconciliation_Currency_13|000
+Reconciliation_Amount_Sign_13|0
+Reconciliation_Amount_13|00000000000000
+Filler_32|N       
+Message_Length_13|0320
+Transaction_Definition_Id_13|0
+Transaction_Processed_Flag_13|0
+BranchPower_Transaction_Reference_Id_13|BRFO
+Message_Type_27|1
+BankMaster_Destination_Branch_Number_26|00
+BankMaster_Destination_Branch_Number_27|00
+Filler_33|0
+Inter_Branching_Flag_13|0
+Device_Id_13|0000
+Message_Function_Code_13|3
+Transaction_Type_26|00
+Force_Post_Flag_13|0
+Transaction_Date_13|20170222
+User_Id_13|RODR
+Transaction_Sequence_Number_13|00000
+Transaction_Chain_Number_13|00
+Host_Task_Id_13|ST01
+BankMaster_Transaction_Type_13|  
+Authorised_Flag_13|0
+Directory_13|esiubp
+Name_of_File_13|glenq0
+Transaction_Type_27|3
+No_of_Fields_9|07
+Dsp_of_ACCOUNT NO_1|01130021
+Filler     _318|   
+ACCOUNT NO_1|01170504637  
+Dsp_of_FILLER _1|02070034
+Filler     _319|   
+FILLER _1|       
+Dsp_of_A/C DESCR _1|03300047
+Filler     _320|   
+A/C DESCR _1|                              
+Dsp_of_BOOK   BALC_1|04110089
+Filler     _321|   
+BOOK   BALC_1|00000000000
+Dsp_of_CLEAR  BALC_1|05110105
+Filler     _322|   
+CLEAR  BALC_1|00000000000
+Dsp_of_REPORT BALC_1|06150133
+Filler     _323|   
+REPORT BALC_1|000000000000000
+Dsp_of_LIMIT  _1|07130410
+Filler     _324|   
+LIMIT  _1|0000000000000
