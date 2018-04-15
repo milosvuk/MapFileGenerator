@@ -1,0 +1,259 @@
+Destination_Mailbox_8|b
+Destination_Country_Code_8|470
+Destination_IMD_Code_8|512345
+Destination_Branch_Number_8|0005
+Source_Mailbox_8|a
+Source_Country_Code_8|470
+Source_IMD_Code_8|512345
+Source_Branch_Number_8|0005
+Business_Period_8|0000
+Message_Type_16|1
+Sequence_Number_8|000000
+Time_8|131236
+Transaction_Status_8|0
+Message_Flags_8|@
+Reconciliation_Period_8|0000
+Reconciliation_Currency_8|000
+Reconciliation_Amount_Sign_8|0
+Reconciliation_Amount_8|0000          
+Filler_20|N       
+Message_Length_8|1285
+Transaction_Definition_Id_8|0
+Transaction_Processed_Flag_8|0
+BranchPower_Transaction_Reference_Id_8|BRFO
+Message_Type_17|1
+BankMaster_Destination_Branch_Number_16|00
+BankMaster_Destination_Branch_Number_17|00
+Filler_21|0
+Inter_Branching_Flag_8|0
+Device_Id_8|0000
+Message_Function_Code_8|5
+Transaction_Type_16|00
+Force_Post_Flag_8|0
+Transaction_Date_8|20170214
+User_Id_8|RODR
+Transaction_Sequence_Number_8|00000
+Transaction_Chain_Number_8|00
+Host_Task_Id_8|ST01
+BankMaster_Transaction_Type_8|  
+Authorised_Flag_8|0
+Directory_8|esiubp
+Name_of_File_8|glclm 
+Transaction_Type_17|1
+No_of_Fields_5|72
+Dsp_of_ACCOUNT NO_1|01130021
+Filler     _190|   
+ACCOUNT NO_1|01261500606  
+Dsp_of_FILLER _1|02070034
+Filler     _191|   
+FILLER _1|       
+Dsp_of_A/C DESCR _1|03300047
+Filler     _192|   
+A/C DESCR _1|                              
+Dsp_of_ACCT TYPE_1|04020045
+Filler     _193|   
+ACCT TYPE_1|00
+Dsp_of_DATE OPEN_1|05080077
+Filler     _194|   
+DATE OPEN_1|20170214
+Dsp_of_REVIEW DTE_1|06082024
+Filler     _195|   
+REVIEW DTE_1|20170214
+Dsp_of_LIMIT |07020410
+Filler     _196|   
+LIMIT |00
+Dsp_of_LIMIT _1|08110412
+Filler     _197|   
+LIMIT _1|+0000000000
+Dsp_of_CR MARGIN|09080318
+Filler     _198|   
+CR MARGIN|00000000
+Dsp_of_CR INT RTE|10090158
+Filler     _199|   
+CR INT RTE|000000000
+Dsp_of_DR MARGIN|11080328
+Filler     _200|   
+DR MARGIN|00000000
+Dsp_of_DR INT RTE|12090167
+Filler     _201|   
+DR INT RTE|000000000
+Dsp_of_1ST CR/DR _1|13180605
+Filler     _202|   
+1ST CR/DR _1|                  
+Dsp_of_PAY A/C NO_1|14130362
+Filler     _203|   
+PAY A/C NO_1|             
+Dsp_of_CR PAY A/C_1|15131295
+Filler     _204|   
+CR PAY A/C_1|             
+Dsp_of_LIMIT FLAG|16011042
+Filler     _205|   
+LIMIT FLAG|0
+Dsp_of_IN PD/RDNO|17020641
+Filler     _206|   
+IN PD/RDNO|00
+Dsp_of_TAX FLAG |18011043
+Filler     _207|   
+TAX FLAG | 
+Dsp_of_BANK CODED|19010602
+Filler     _208|   
+BANK CODE|0
+Dsp_of_NON-RES CD_2|20010603
+Filler     _209|   
+NON-RES CD_2|0
+Dsp_of_CR BASE CD|21020316
+Filler     _210|   
+CR BASE CD|00
+Dsp_of_DR BASE CD|22020326
+Filler     _211|   
+DR BASE CD|00
+Dsp_of_STAT FLAGS|23050497
+Filler     _212|   
+STAT FLAGS|     
+Dsp_of_CNFRM ADV|24010540
+Filler     _213|   
+CNFRM ADV|0
+Dsp_of_RT CHG ADV|25010354
+Filler     _214|   
+RT CHG ADV|0
+Dsp_of_DR INT APP|26010361
+Filler     _215|   
+DR INT APP|0
+Dsp_of_CR INT APP|27011294
+Filler     _216|   
+CR INT APP|0
+Dsp_of_DR FRQ CD|28030382
+Filler     _217|   
+DR FRQ CD|   
+Dsp_of_CR FQ/APDY|29051315
+Filler     _218|   
+CR FQ/APDY|     
+Dsp_of_DR IN APDY|30021066
+Filler     _219|   
+DR IN APDY|00
+Dsp_of_INT ADVICE|31010385
+Filler     _220|   
+INT ADVICE|0
+Dsp_of_EXTERNAL ?_1|32010594
+Filler     _221|   
+EXTERNAL ?_1| 
+Dsp_of_ACCT.STAT _1|33020596
+Filler     _222|   
+ACCT.STAT _1|RE
+Dsp_of_ACCT.OFFC._1|34061926
+Filler     _223|   
+ACCT.OFFC._1|5BM   
+Dsp_of_BRANCH NO_3|35042030
+Filler     _224|   
+BRANCH NO_3|0005
+Dsp_of_ACCOUNT NO_2|36202050
+Filler     _225|   
+ACCOUNT NO_2|00000000000000000000
+Dsp_of_VALUE DATE|37082070
+Filler     _226|   
+VALUE DATE|        
+Dsp_of_ACC LIMIT |38122312
+Filler     _227|   
+ACC LIMIT |000000000000
+Dsp_of_DR BASE CD_1|39022324
+Filler     _228|   
+DR BASE CD_1|00
+Dsp_of_DR MARGIN_1|40082326
+Filler     _229|   
+DR MARGIN_1|00000000
+Dsp_of_DR INT RTE_1|41092336
+Filler     _230|   
+DR INT RTE_1|000000000
+Dsp_of_CR CD/MARG|42022345
+Filler     _231|   
+CR CD/MARG|00
+Dsp_of_CR MARGIN |43082347
+Filler     _232|   
+CR MARGIN |00000000
+Dsp_of_CR INT RTE_1|44092355
+Filler     _233|   
+CR INT RTE_1|         
+Dsp_of_DR/CR/LMCH|45032362
+Filler     _234|   
+DR/CR/LMCH|000
+Dsp_of_FILLER_4|46070375
+Filler     _235|   
+FILLER_4|       
+Dsp_of_FILLER_5|47071308
+Filler     _236|   
+FILLER_5|       
+Dsp_of_REC TYPE|48012049
+Filler     _237|   
+REC TYPE|0
+Dsp_of_CORR ADDR_1|49010598
+Filler     _238|   
+CORR ADDR_1| 
+Dsp_of_INT TYPE _1|50010600
+Filler     _239|   
+INT TYPE _1|I
+Dsp_of_SEC TYPE 1_1|51011987
+Filler     _240|   
+SEC TYPE 1_1|9
+Dsp_of_SEC AMNT 1_1|52041988
+Filler     _241|   
+SEC AMNT 1_1|0030
+Dsp_of_SEC TYPE 2_1|53011992
+Filler     _242|   
+SEC TYPE 2_1| 
+Dsp_of_SEC AMNT 2_1|54041993
+Filler     _243|   
+SEC AMNT 2_1|    
+Dsp_of_SEC TYPE 3_1|55011997
+Filler     _244|   
+SEC TYPE 3_1| 
+Dsp_of_SEC AMNT 3_1|56041998
+Filler     _245|   
+SEC AMNT 3_1|    
+Dsp_of_SEC TYPE 4_1|57012002
+Filler     _246|   
+SEC TYPE 4_1| 
+Dsp_of_SEC AMNT 4_1|58042003
+Filler     _247|   
+SEC AMNT 4_1|    
+Dsp_of_SEC TYPE 5_1|59012007
+Filler     _248|   
+SEC TYPE 5_1| 
+Dsp_of_SEC AMNT 5_1|60042008
+Filler     _249|   
+SEC AMNT 5_1|    
+Dsp_of_SEC TYPE 6_1|61012012
+Filler     _250|   
+SEC TYPE 6_1| 
+Dsp_of_SEC AMNT 6_1|62042013
+Filler     _251|   
+SEC AMNT 6_1|    
+Dsp_of_PASSW! _1|63010604
+Filler     _252|   
+PASSW! _1|5
+Dsp_of_SECURED ?_1|64012017
+Filler     _253|   
+SECURED ?_1|S
+Dsp_of_TAKEON ? _1|65012020
+Filler     _254|   
+TAKEON ? _1| 
+Dsp_of_CORR ADD_3|66060533
+Filler     _255|   
+CORR ADD_3|      
+Dsp_of_CBM CODE_1|67011884
+Filler     _256|   
+CBM CODE_1|A
+Dsp_of_CBM NAS CD_1|68061885
+Filler     _257|   
+CBM NAS CD_1|040900
+Dsp_of_ACCT OWNER_1|69012021
+Filler     _258|   
+ACCT OWNER_1|O
+Dsp_of_LOAN TYPE_1|70012022
+Filler     _259|   
+LOAN TYPE_1|F
+Dsp_of_PURP.FACIL_1|71012042
+Filler     _260|   
+PURP.FACIL_1|T
+Dsp_of_CR.CNV.FAC_1|72012043
+Filler     _261|   
+CR.CNV.FAC_1|G
