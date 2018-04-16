@@ -1,0 +1,33 @@
+===========================================================
+Application:       WindowsFormsApplication1TEST
+Version:           1.0.0.0
+Date:              21-12-2015 13:42:08
+Computer name:     KOMP-PC
+User name:         komp
+OS:                Microsoft Windows NT 6.1.7601 Service Pack 1
+Culture:           en-US
+Resolution:        {Width=1920, Height=1080}
+System up time:    03:28:02.8480000
+App up time:       03:09:48.8712562
+Total memory:      16334Mb
+Available memory:  11122Mb
+
+Button2 click, after x=10
+
+
+===========================================================
+Application:       WindowsFormsApplication1TEST
+Version:           1.0.0.0
+Date:              21-12-2015 13:42:10
+Computer name:     KOMP-PC
+User name:         komp
+OS:                Microsoft Windows NT 6.1.7601 Service Pack 1
+Culture:           en-US
+Resolution:        {Width=1920, Height=1080}
+System up time:    03:28:02.8500000
+App up time:       03:09:48.8732563
+Total memory:      16334Mb
+Available memory:  11122Mb
+
+Button2 click, after y = 20;
+
